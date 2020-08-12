@@ -1,0 +1,25 @@
+
+body{
+    background-color: black;
+    margin-top: 20px;
+}
+#clear{
+    width: 128px;
+}
+.formstyle{
+
+   background-color: cornsilk;
+    width: 128px;
+    height: 200px;
+    margin: auto;
+    border: 2px solid blueviolet;
+}
+#ansstyle{
+    width: 120px;
+    height: 50px;
+    background-color: darkgray;
+}
+input{
+    width: 40px;
+    background-color: blueviolet;
+}
